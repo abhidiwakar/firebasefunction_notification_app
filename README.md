@@ -28,4 +28,4 @@ Please make sure to update the tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Social Links
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/100px-Instagram_logo_2016.svg.png" width="50" height="50"> [Instagram](https://www.instagram.com/nameless_coder/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/100px-Instagram_logo_2016.svg.png" width="20" height="20"> [Instagram](https://www.instagram.com/nameless_coder/)
